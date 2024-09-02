@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6cc141589474d6cd",
+    "id": "e50d2ec6e3c80eb1",
     "type": "split",
     "children": [
       {
-        "id": "bfc0f48c78c0263e",
+        "id": "097f8f96bd7f8627",
         "type": "tabs",
         "children": [
           {
-            "id": "609e54c95319eac9",
+            "id": "44c4d8eef2b09a92",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a8c5d704736178c1",
+    "id": "dbb13a08273b74b0",
     "type": "split",
     "children": [
       {
-        "id": "5d963d67d1c21afd",
+        "id": "4aeb337e673e6933",
         "type": "tabs",
         "children": [
           {
-            "id": "5438513df5c3c8a9",
+            "id": "44e7404aa188a4ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "f993caeda415074c",
+            "id": "0a543cd11409961d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "dd14aa3ed2306ecd",
+            "id": "fb122390a5ec35b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,42 +68,26 @@
     "width": 300
   },
   "right": {
-    "id": "320c8dea7aa23668",
+    "id": "13fa92a6474f12b6",
     "type": "split",
     "children": [
       {
-        "id": "65cb54eda3f35e70",
+        "id": "c22724c4f36abf6e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e19622334d2fc05",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "63c86a36973f2faa",
+            "id": "b9ffa721ed76c370",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "e48f3be6bfb5b879",
+            "id": "ff9efb1974182972",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +98,39 @@
             }
           },
           {
-            "id": "82d07134b213b212",
+            "id": "2b8288aa3c1f3c3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "d7f1aa4483c0d05a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c67f2da93ac85968",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,21 +139,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "5438513df5c3c8a9",
+  "active": "44c4d8eef2b09a92",
   "lastOpenFiles": [
-    "2024-07-21.md",
-    "Untitled 7.canvas",
-    "Untitled 6.canvas",
-    "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "asfasdgf.md",
-    "Untitled 3.canvas",
-    "2024-05-18.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Notion/Algorithms and data structures/Algorithms and data structures.md",
+    "Untitled.canvas",
+    "2024-09-01.md",
+    "source control view.md",
+    "Notion/GraphQL & REST/REST vs GraphQL/REST vs GraphQL.md",
+    "Notion/Event Loop от А до Я. Архитектура браузера и Node JS/The Architecture of Web Browsers (Архитектура браузера)/The Architecture of Web Browsers (Архитектура браузера).md",
+    "Notion/Event Loop от А до Я. Архитектура браузера и Node JS/Event Loop JS (Цикл событий)/Event Loop JS (Цикл событий).md",
+    "Notion/SOLID/SOLID.md",
+    "2.md",
+    "202409011645.md",
+    "Notion/JS/Задача на формирование фигуры.md",
+    "Notion/Event Loop от А до Я. Архитектура браузера и Node JS/Render/Render.md",
+    "Notion/Algorithms and data structures/Data structures/Data structures.md",
+    "Notion/Frontend interview/Frontend interview.md",
+    "Notion/Frontend interview/Async JS (вопросы из асинхронного JavaScript)/Async JS (вопросы из асинхронного JavaScript).md",
+    "Notion/Frontend interview/ECMAScript (вопросы из новых версий стандарта ECMAScript)/ECMAScript (вопросы из новых версий стандарта ECMAScript).md",
+    "Notion/React & Redux/Специализация и наследование/Специализация и наследование.md",
+    "Notion/React & Redux/React & Redux.md",
+    "Notion/React & Redux/Redux devtools/Redux devtools.md",
+    "Notion/JS/Задания на поиск ошибок в коде.md",
+    "Notion/JS/JS.md",
+    "Notion/React & Redux/Что такое API и как работают реальные приложения.md",
+    "Notion/Docker/Docker.md",
+    "Notion/Codewars/Codewars.md",
+    "Notion/Codewars/Bouncing Balls (Прыгающие мячи).md",
+    "Notion/Auth/Auth.md",
+    "Notion/Auth/JWT.md",
+    "Assets/Untitled 10 8.png",
+    "Assets/6ae5dzbl9t87d5arre92.jpeg",
+    "Assets/1200px-React-icon.svg.png",
+    "Assets/1600px-English_language.svg.png",
+    "Assets/1200px-Unofficial_JavaScript_logo_2.svg.png",
+    "Assets/frontend_dev.png",
+    "Assets/Untitled 167.png",
+    "Assets",
+    "Assets/Vue.png",
+    "Assets/Untitled 3 5.png",
+    "Assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-09-03_%D0%B2_11.43.45.png",
+    "Untitled 1.qt",
+    "Untitled.qt",
+    "Notion/Algorithms and data structures/Data structures/Weighted and unweighted graphs (Взвешенные и не взвешенные графы)",
+    "Notion/Algorithms and data structures/Data structures/Undirected and directed graphs (Не ориентированные и ориентированные графы)",
+    "Notion/Algorithms and data structures/Data structures/Heaps (Кучи)",
+    "Notion/Algorithms and data structures/Data structures/Binary trees (Бинарные или двоичные деревья)",
+    "Notion/Algorithms and data structures/Data structures/10. Граф (Graph)",
+    "Notion/Algorithms and data structures/Data structures/9. Trie (Префиксное дерево)",
+    "Notion/Algorithms and data structures/Data structures/8. Binary search tree (Двоичное дерево поиска)"
   ]
 }
